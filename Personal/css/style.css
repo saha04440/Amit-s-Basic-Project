@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    text-shadow: 50px;
+    color: rgb(250, 254, 255);
+    font-family: 'Itim', cursive;
+    background-image: url("/Personal/img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.profilepic {
+    display: block;
+    margin: auto;
+    height: 100px;
+    border-radius: 50%;
+}
+.text {
+    text-align: center;
+    margin: 0;
+}
+hr {
+    color: white;
+  }
+p {
+  color: rgb(234, 255, 0);
+  background-color: #322876;
+    border-radius: 15px;
+    padding: 10px;
+}
